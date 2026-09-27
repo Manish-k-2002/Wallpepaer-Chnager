@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wallpaper Changer</string>
+    <string name="change_now">Change Wallpaper Now</string>
+    <string name="enable_daily">Enable Daily Auto-Change</string>
+    <string name="status_idle">Ready.</string>
+    <string name="status_downloading">Downloading new wallpaper…</string>
+    <string name="status_success">Wallpaper updated!</string>
+    <string name="status_error">Something went wrong. Check your internet connection and try again.</string>
+    <string name="status_scheduled">Daily auto-change is ON. Wallpaper will refresh every 24 hours.</string>
+    <string name="status_unscheduled">Daily auto-change is OFF.</string>
+</resources>
